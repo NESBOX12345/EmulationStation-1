@@ -1,0 +1,32 @@
+CPUID is present
+CPU Info:
+------------------
+  vendor_str : `GenuineIntel'
+  vendor id  : 0
+  brand_str  : `Intel(R) Pentium(R) Dual  CPU  E2160  @ 1.80GHz'
+  family     : 6 (06h)
+  model      : 15 (0Fh)
+  stepping   : 13 (0Dh)
+  ext_family : 6 (06h)
+  ext_model  : 15 (0Fh)
+  num_cores  : 2
+  num_logical: 2
+  tot_logical: 2
+  L1 D cache : 32 KB
+  L1 I cache : 32 KB
+  L2 cache   : 1024 KB
+  L3 cache   : -1 KB
+  L4 cache   : -1 KB
+  L1D assoc. : 8-way
+  L1I assoc. : 8-way
+  L2 assoc.  : 4-way
+  L3 assoc.  : -1-way
+  L4 assoc.  : -1-way
+  L1D line sz: 64 bytes
+  L1I line sz: 64 bytes
+  L2 line sz : 64 bytes
+  L3 line sz : -1 bytes
+  L4 line sz : -1 bytes
+  SSE units  : 128 bits (non-authoritative)
+  code name  : `Conroe (Core 2 Duo) 1024K'
+  features   : fpu vme de pse tsc msr pae mce cx8 apic mtrr sep pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dts64 monitor ds_cpl est tm2 ssse3 cx16 xtpr pdcm syscall xd lm lahf_lm

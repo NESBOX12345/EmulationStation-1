@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tartaruga/EmulationStation/external/nanosvg/src/nanosvg_impl.cpp
+stdio.h
+-
+nanosvg.h
+/home/tartaruga/EmulationStation/external/nanosvg/src/nanosvg.h
+nanosvgrast.h
+/home/tartaruga/EmulationStation/external/nanosvg/src/nanosvgrast.h
+
+external/nanosvg/nanosvg.h
+string.h
+-
+stdlib.h
+-
+math.h
+-
+
+external/nanosvg/nanosvgrast.h
+math.h
+-
+
